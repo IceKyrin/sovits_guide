@@ -7,28 +7,19 @@ b站专栏：https://www.bilibili.com/read/cv18548051
 
 ************************************************************************************************************************
 
-f0版本（适合转换歌声，高epochs时语音效果也较好，建议使用此版本）：
+2.0版本：
 
 猫雷hug在线体验：https://huggingface.co/spaces/innnky/nyaru-svc2.0
 
-男声hug在线体验（44100采样率，还在训练）：https://huggingface.co/spaces/xiaolang/sovits_f0
+男声hug在线体验：https://huggingface.co/spaces/xiaolang/sovits_f0
 
 github：https://github.com/innnky/so-vits-svc
 
 本地合成git：https://github.com/IceKyrin/sovits_f0_infer
 
 ************************************************************************************************************************
-midi版本（适合转换语音，语音可能低练度效果就可以，但是歌声效果不佳）：
 
-hug在线体验：https://huggingface.co/spaces/xiaolang/sovits_midi_dev
-
-github：https://github.com/innnky/so-vits-svc/tree/dev
-
-本地合成git：https://github.com/IceKyrin/sovits_midi_infer/tree/main
-
-************************************************************************************************************************
-
-一键colab（三件套仅支持f0版，mini版提供数据集制作）：
+一键colab：
 
 数据集制作：https://colab.research.google.com/drive/1avWZ_N5BsQcq45XkwQkDpmp912CLZS0n
 
