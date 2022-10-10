@@ -5,6 +5,8 @@ b站视频：https://www.bilibili.com/video/BV1eV4y1N72x
 
 b站专栏：https://www.bilibili.com/read/cv18548051
 
+合成教程：https://www.bilibili.com/video/BV12t4y1c741
+
 ************************************************************************************************************************
 
 2.0版本：
