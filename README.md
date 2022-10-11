@@ -17,7 +17,7 @@ b站专栏：https://www.bilibili.com/read/cv18548051
 
 github：https://github.com/innnky/so-vits-svc
 
-本地合成git：https://github.com/IceKyrin/sovits_f0_infer
+实时sovits合成（附带一键合成、gui、vst插件等）：https://github.com/IceKyrin/sovits_f0_infer
 
 ************************************************************************************************************************
 
