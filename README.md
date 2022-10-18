@@ -17,11 +17,15 @@ b站专栏：https://www.bilibili.com/read/cv18548051
 
 github：https://github.com/innnky/so-vits-svc
 
+************************************************************************************************************************
+
+**以下合成main分支已更新至2.1版本，2.0模型请使用2.0分支**
+
 实时sovits合成（附带一键合成、gui、vst插件等）：https://github.com/IceKyrin/sovits_f0_infer
 
 ************************************************************************************************************************
 
-一键colab：
+2.0一键colab：
 
 数据集制作：https://colab.research.google.com/drive/1avWZ_N5BsQcq45XkwQkDpmp912CLZS0n
 
