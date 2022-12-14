@@ -1,6 +1,8 @@
 # sovits_guide
 sovits各版本介绍及一键colab
 
+**建议使用sovits3.0：https://github.com/innnky/so-vits-svc/tree/32k**
+
 b站视频：https://www.bilibili.com/video/BV1eV4y1N72x
 
 b站专栏：https://www.bilibili.com/read/cv18548051
